@@ -480,19 +480,16 @@ MediaVerse/
         <h3>Template A — Modern Default</h3>
         <p>A clean and structured layout ideal for general news portals.</p>
         <img src="https://github.com/HVzz24/MediaVerse/blob/main/asset/files/frontend%20A.gif" alt="Default Template" class="gif-preview">
-        <img src="asset\files\1.jpeg" alt="Default Template" class="full-img">
     </div>
     <div class="item">
         <h3>Template B — Magazine Style</h3>
         <p>Designed for multi-category news platforms with dynamic content blocks.</p>
         <img src="asset/files/Template B.gif" alt="Magazine Template" class="gif-preview">
-        <img src="asset\files\4.jpeg" alt="Default Template" class="full-img">
     </div>
     <div class="item">
         <h3>Template C — Minimal Flat</h3>
         <p>A lightweight template focused on speed and simplicity.</p>
         <img src="asset/files/Template C.gif" alt="Minimal Template" class="gif-preview">
-        <img src="asset\files\5.jpeg" alt="Default Template" class="full-img">
     </div>
 </div>
 
