@@ -479,7 +479,7 @@ MediaVerse/
     <div class="item">
         <h3>Template A — Modern Default</h3>
         <p>A clean and structured layout ideal for general news portals.</p>
-        <img src="asset/files/frontend A.gif" alt="Default Template" class="gif-preview">
+        <img src="https://github.com/HVzz24/MediaVerse/blob/main/asset/files/frontend%20A.gif" alt="Default Template" class="gif-preview">
         <img src="asset\files\1.jpeg" alt="Default Template" class="full-img">
     </div>
     <div class="item">
