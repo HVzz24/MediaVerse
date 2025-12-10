@@ -11,7 +11,7 @@
 
     <meta name="description" content="<?php echo $description; ?>">
     <meta name="keywords" content="<?php echo $keywords; ?>">
-    <meta name="author" content="mycoding.net">
+    <meta name="author" content=" ">
     <meta name="robots" content="all,index,follow">
     <meta http-equiv="Content-Language" content="id-ID">
     <meta NAME="Distribution" CONTENT="Global">

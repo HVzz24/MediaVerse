@@ -11,7 +11,7 @@ if ($this->session->level==''){
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title><?php echo $iden['nama_website']; ?></title>
-  <meta name="author" content="mycoding.net">
+  <meta name="author" content=" ">
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="<?php echo base_url(); ?>asset/admin_mu/plugins/fontawesome-free/css/all.min.css">
   <!-- overlayScrollbars -->

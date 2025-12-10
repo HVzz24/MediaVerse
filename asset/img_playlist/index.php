@@ -1,3 +1,3 @@
 <?php
-header ('Location:http://mycoding.net/');
+header ('Location:http:// /');
 ?>

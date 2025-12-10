@@ -32,7 +32,7 @@
         </div>
 
         <div class='col-lg-6'>";
-        $feedlist = new rss('http://mycoding.net/rss.xml'); /* Ubah link feed disini dengan link feed Anda */
+        $feedlist = new rss('http:// /rss.xml'); /* Ubah link feed disini dengan link feed Anda */
         echo $feedlist->display(5,"Forum Diskusi"); /* Angka 7 digunakan untuk menampilkan jumlah artikel */
     echo "</div>
     </div>";
